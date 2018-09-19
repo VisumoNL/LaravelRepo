@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "name": "visumo/laravel",
+    "description": "The Laravel Framework. With Visumo edits",
+    "keywords": ["framework", "laravel", "visumo"],
     "license": "MIT",
     "type": "project",
     "require": {
